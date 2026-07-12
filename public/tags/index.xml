@@ -29,12 +29,5 @@
 				<guid>https://lucas-adler.vercel.app/tags/daily/</guid>
 				<description></description>
 			</item>
-			<item>
-				<title>Post</title>
-				<link>https://lucas-adler.vercel.app/tags/post/</link>
-				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/post/</guid>
-				<description></description>
-			</item>
 	</channel>
 </rss>
