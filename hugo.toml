@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://lucas-adler.vercel.app/'
 locale = 'pt-br'
 title = '775 Lab'
 theme = 'risotto'
