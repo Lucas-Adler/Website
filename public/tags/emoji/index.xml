@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Emoji on 775 Lab</title>
-		<link>http://localhost:1313/tags/emoji/</link>
+		<link>https://lucas-adler.vercel.app/tags/emoji/</link>
 		<description>Recent content in Emoji on 775 Lab</description>
 		<generator>Hugo</generator>
 		<language>pt-br</language>
@@ -14,12 +14,12 @@
 		
 			<lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://lucas-adler.vercel.app/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Emoji Support</title>
-				<link>http://localhost:1313/post/emoji-support/</link>
+				<link>https://lucas-adler.vercel.app/post/emoji-support/</link>
 				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>http://localhost:1313/post/emoji-support/</guid>
+				<guid>https://lucas-adler.vercel.app/post/emoji-support/</guid>
 				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
 			</item>
 	</channel>
