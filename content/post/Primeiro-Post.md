@@ -1,7 +1,7 @@
 +++
 author = "Lucas Adler"
 title = "Primeiro Post"
-date = "262026-07-12T1920 +00:00"
+date = "2026-07-12"
 description = "Meu primeiro post de teste"
 tags = ["post", "blog"]
 
