@@ -1,7 +1,7 @@
 baseURL = 'https://lucas-adler.vercel.app/'
 locale = 'pt-br'
 title = '775 Lab'
-theme = 'ananke'
+theme = 'risotto'
 author = "Joe Roe"
 copyright = "© Lucas Adler"
 languageCode = "pt-br"

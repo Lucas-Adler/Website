@@ -17,17 +17,17 @@
 			<atom:link href="https://lucas-adler.vercel.app/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Primeiro Post</title>
+				<link>https://lucas-adler.vercel.app/post/o-que-tenho-feito.../</link>
+				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+				<guid>https://lucas-adler.vercel.app/post/o-que-tenho-feito.../</guid>
+				<description>&lt;p&gt;Atualmente estou bem atribulado com diversas coisas do trabalho&amp;hellip; muitas aulas e trabalhos para corrigir. Estou um pouco animado com o próximo semestre onde vou acabar dando aulas de matérias que nunca dei antes, estou me preparando bem para elas, é um assunto que gosto, em breve trago mais detalhes sobre.&lt;/p&gt;&#xA;&lt;p&gt;Agora nas férias consegui um tempo para trabalhar um pouco no site! já estava na gaveta desde o começo do ano&amp;hellip; ainda preciso arrumar a usabilidade do meu aplicativo de simulação de eficiência energética e dar sequência no próximo app que estou bolando, não será nada revolucionário, mas vai ser uma mão na roda na hora das aulas.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Primeiro Post</title>
 				<link>https://lucas-adler.vercel.app/post/primeiro-post/</link>
 				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>https://lucas-adler.vercel.app/post/primeiro-post/</guid>
 				<description>&lt;p&gt;Este é um teste para ver se a shell comand está funcionando&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Se gostou do post entre em contato!&lt;/strong&gt;&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Teste 2</title>
-				<link>https://lucas-adler.vercel.app/post/teste-2/</link>
-				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/teste-2/</guid>
-				<description>&lt;p&gt;Outro teste rolando&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Se gostou do post entre em contato!&lt;/strong&gt;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Aplicativos</title>
@@ -49,41 +49,6 @@
 				<pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
 				<guid>https://lucas-adler.vercel.app/archives/</guid>
 				<description></description>
-			</item>
-			<item>
-				<title>Markdown Syntax Guide</title>
-				<link>https://lucas-adler.vercel.app/post/markdown-syntax/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/markdown-syntax/</guid>
-				<description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Rich Content</title>
-				<link>https://lucas-adler.vercel.app/post/rich-content/</link>
-				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/rich-content/</guid>
-				<description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Placeholder Text</title>
-				<link>https://lucas-adler.vercel.app/post/placeholder-text/</link>
-				<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/placeholder-text/</guid>
-				<description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Math Typesetting</title>
-				<link>https://lucas-adler.vercel.app/post/math-typesetting/</link>
-				<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/math-typesetting/</guid>
-				<description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>Emoji Support</title>
-				<link>https://lucas-adler.vercel.app/post/emoji-support/</link>
-				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/post/emoji-support/</guid>
-				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Sobre</title>

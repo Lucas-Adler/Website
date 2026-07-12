@@ -9,7 +9,7 @@
     <loc>https://lucas-adler.vercel.app/tags/blog/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/index/</loc>
+    <loc>https://lucas-adler.vercel.app/tags/daily/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucas-adler.vercel.app/tags/post/</loc>
@@ -18,13 +18,13 @@
     <loc>https://lucas-adler.vercel.app/post/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lucas-adler.vercel.app/post/o-que-tenho-feito.../</loc>
+    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lucas-adler.vercel.app/post/primeiro-post/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucas-adler.vercel.app/tags/</loc>
-    <lastmod>2026-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/teste-2/</loc>
     <lastmod>2026-07-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lucas-adler.vercel.app/apps/</loc>
@@ -36,58 +36,11 @@
     <loc>https://lucas-adler.vercel.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lucas-adler.vercel.app/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/series/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lucas-adler.vercel.app/post/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://lucas-adler.vercel.app/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lucas-adler.vercel.app/categories/</loc>
+  </url><url>
+    <loc>https://lucas-adler.vercel.app/series/</loc>
   </url>
 </urlset>

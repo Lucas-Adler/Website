@@ -23,10 +23,10 @@
 				<description></description>
 			</item>
 			<item>
-				<title>Index</title>
-				<link>https://lucas-adler.vercel.app/tags/index/</link>
+				<title>Daily</title>
+				<link>https://lucas-adler.vercel.app/tags/daily/</link>
 				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/index/</guid>
+				<guid>https://lucas-adler.vercel.app/tags/daily/</guid>
 				<description></description>
 			</item>
 			<item>
@@ -34,55 +34,6 @@
 				<link>https://lucas-adler.vercel.app/tags/post/</link>
 				<pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
 				<guid>https://lucas-adler.vercel.app/tags/post/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Css</title>
-				<link>https://lucas-adler.vercel.app/tags/css/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/css/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Html</title>
-				<link>https://lucas-adler.vercel.app/tags/html/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/html/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Markdown</title>
-				<link>https://lucas-adler.vercel.app/tags/markdown/</link>
-				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/markdown/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Privacy</title>
-				<link>https://lucas-adler.vercel.app/tags/privacy/</link>
-				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/privacy/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Shortcodes</title>
-				<link>https://lucas-adler.vercel.app/tags/shortcodes/</link>
-				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/shortcodes/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Text</title>
-				<link>https://lucas-adler.vercel.app/tags/text/</link>
-				<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/text/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Emoji</title>
-				<link>https://lucas-adler.vercel.app/tags/emoji/</link>
-				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-				<guid>https://lucas-adler.vercel.app/tags/emoji/</guid>
 				<description></description>
 			</item>
 	</channel>
