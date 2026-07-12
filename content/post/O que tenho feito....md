@@ -5,7 +5,8 @@ date = "2026-07-12"
 description = "Sobre o que estou trabalhando no momento"
 tags = ["blog", "daily"]
 +++
-
+Vocês devem estar se perguntando o que eu fiz para vir parar aqui
+<!--more-->
 Atualmente estou bem atribulado com diversas coisas do trabalho... muitas aulas e trabalhos para corrigir. Estou um pouco animado com o próximo semestre onde vou acabar dando aulas de matérias que nunca dei antes, estou me preparando bem para elas, é um assunto que gosto, em breve trago mais detalhes sobre. 
 
 Agora nas férias consegui um tempo para trabalhar um pouco no site! já estava na gaveta desde o começo do ano... ainda preciso arrumar a usabilidade do meu aplicativo de simulação de eficiência energética e dar sequência no próximo app que estou bolando, não será nada revolucionário, mas vai ser uma mão na roda na hora das aulas. 
