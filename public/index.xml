@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>775 Lab</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on 775 Lab</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+			<copyright>© Lucas Adler</copyright>
+		
+		
+			<lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aplicativos</title>
+				<link>http://localhost:1313/apps/</link>
+				<pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/apps/</guid>
+				<description>&lt;p&gt;Aplicativos desenvolvidos por tema:&lt;/p&gt;&#xA;&lt;h1 id=&#34;simulação&#34;&gt;Simulação&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://eficientedu.vercel.app/#Home&#34;&gt;EficientEdu&lt;/a&gt;:&#xA;Um aplicativo com o objetivo de auxiliar &lt;br&gt;&#xA;no ensino de eficiência energética&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Publicações</title>
+				<link>http://localhost:1313/publica%C3%A7%C3%B5es/</link>
+				<pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/publica%C3%A7%C3%B5es/</guid>
+				<description>&lt;p&gt;Lista de publicações por ano:&lt;/p&gt;&#xA;&lt;h1 id=&#34;2025&#34;&gt;2025&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://eventos.antac.org.br/index.php/encac/article/view/7227&#34;&gt;Modelagem de caixa cinza em eficiência energética de edifícios :&#xA;uma revisão de literatura&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;2023&#34;&gt;2023&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://eventos.antac.org.br/index.php/encac/article/view/3897&#34;&gt;Desenvolvimento de aplicativo de ensino de eficiência energética em edificações&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1NR4kyvrPRUIHWIjOXhJ_Py4oENi_1178/view&#34;&gt;Vidros de Controle Solar e Insulados em Habitações Sociais Um estudo de simulação em diferentes latitudes&lt;/a&gt; páginas: 140 - 144&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/1NR4kyvrPRUIHWIjOXhJ_Py4oENi_1178/view&#34;&gt;Aplicação de ferramenta computacional no ensino de simulação de desempenho energético&lt;/a&gt; páginas: 173 - 177&lt;/p&gt;&#xA;&lt;h1 id=&#34;2019&#34;&gt;2019&lt;/h1&gt;</description>
+			</item>
+			<item>
+				<title></title>
+				<link>http://localhost:1313/archives/</link>
+				<pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/archives/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Markdown Syntax Guide</title>
+				<link>http://localhost:1313/post/markdown-syntax/</link>
+				<pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/markdown-syntax/</guid>
+				<description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Rich Content</title>
+				<link>http://localhost:1313/post/rich-content/</link>
+				<pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/rich-content/</guid>
+				<description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Placeholder Text</title>
+				<link>http://localhost:1313/post/placeholder-text/</link>
+				<pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/placeholder-text/</guid>
+				<description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Math Typesetting</title>
+				<link>http://localhost:1313/post/math-typesetting/</link>
+				<pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/math-typesetting/</guid>
+				<description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Emoji Support</title>
+				<link>http://localhost:1313/post/emoji-support/</link>
+				<pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/post/emoji-support/</guid>
+				<description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Sobre</title>
+				<link>http://localhost:1313/about/</link>
+				<pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/about/</guid>
+				<description>&lt;p&gt;Me chamo Lucas, sou arquiteto e urbanista, professor e me aventuro no mundo da programação.&#xA;Comecei a desenvolver um aplicativo de ensino de eficiência energética durante o mestrado e a partir daí comecei a me interessar mais pela parte de simulações e programação de atividades educacionais.&lt;/p&gt;&#xA;&lt;p&gt;Este site serve como um hub para as minhas publicações e desenvolvimentos de aplicativos e experimentos educacionais!&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
